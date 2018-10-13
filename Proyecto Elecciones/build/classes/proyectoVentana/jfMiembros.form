@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="0"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="99" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jScrollPaneMili" max="32767" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jButtonCargar" max="32767" attributes="0"/>
+                                      <Component id="jButtonGuardar" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="jLabel2" max="32767" attributes="0"/>
+                                      <Component id="jTextFieldNomFichero" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="621" max="-2" attributes="0"/>
+                                  <Component id="jButtonSalir" min="-2" pref="87" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabelProfesion" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jButtonAgregarM" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jLabelSiglas" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabelNombre" alignment="0" min="-2" pref="74" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="texFieldSoM" min="-2" pref="353" max="-2" attributes="0"/>
+                                      <Component id="texFieldNombre" min="-2" pref="353" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabelApellidos" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabelEdad" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabelGenero" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="texFieldEdad" min="-2" pref="350" max="-2" attributes="0"/>
+                                          <Component id="texFieldApellidos" min="-2" pref="353" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="texFieldGenero" min="-2" pref="353" max="-2" attributes="0"/>
+                                              <Component id="texFieldProfesion" min="-2" pref="353" max="-2" attributes="0"/>
+                                              <Component id="texFieldSiglas" alignment="0" min="-2" pref="353" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="31" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabelCuota" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabelEncuesta2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabelEncuesta" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabelCarne" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="texFieldEncuesta2" min="-2" pref="353" max="-2" attributes="0"/>
+                                      <Component id="texFieldEncuesta" min="-2" pref="353" max="-2" attributes="0"/>
+                                      <Component id="texFieldCuota" alignment="0" min="-2" pref="353" max="-2" attributes="0"/>
+                                      <Component id="texFieldCarne" min="-2" pref="353" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabelEncuesta" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="texFieldEncuesta" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="texFieldSoM" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="texFieldEncuesta2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabelEncuesta2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabelCuota" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="texFieldCuota" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabelCarne" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="texFieldCarne" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="texFieldNombre" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabelNombre" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="texFieldApellidos" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabelApellidos" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabelEdad" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="texFieldEdad" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabelProfesion" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="texFieldProfesion" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabelGenero" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="texFieldGenero" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabelSiglas" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="texFieldSiglas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="35" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jButtonAgregarM" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jScrollPaneMili" min="-2" pref="107" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jButtonGuardar" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jButtonCargar" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextFieldNomFichero" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jButtonSalir" min="-2" pref="71" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="jButtonSalir">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="f0" green="f0" red="c8" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonSalirActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonAgregarM">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Agregar militante"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonAgregarMActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelNombre">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelApellidos">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellidos"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelEdad">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Edad"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelProfesion">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Profesi&#xf3;n"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelGenero">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="G&#xe9;nero"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelSiglas">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siglas Partido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelEncuesta">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Pregunta 1:?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelEncuesta2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Pregunta 2:?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldNombre">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldNombreActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldApellidos">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldApellidosActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldEdad">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldEdadActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldProfesion">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldProfesionActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldGenero">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldGeneroActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldSiglas">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldSiglasActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldEncuesta">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldEncuestaActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldEncuesta2">
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPaneMili">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="jTableMiem">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="11" rowCount="4">
+                    <Column editable="true" title="Tipo votante" type="java.lang.Object"/>
+                    <Column editable="true" title="Nombre" type="java.lang.String"/>
+                    <Column editable="true" title="Apellidos" type="java.lang.Object"/>
+                    <Column editable="true" title="Edad" type="java.lang.Object"/>
+                    <Column editable="true" title="Profesi&#xf3;n" type="java.lang.Object"/>
+                    <Column editable="true" title="G&#xe9;nero" type="java.lang.Object"/>
+                    <Column editable="true" title="Siglas Partido" type="java.lang.Object"/>
+                    <Column editable="true" title="Encuesta" type="java.lang.Object"/>
+                    <Column editable="true" title="Encuesta 2" type="java.lang.Object"/>
+                    <Column editable="true" title="Cuota" type="java.lang.Object"/>
+                    <Column editable="true" title="Carne" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabelCuota">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cuota"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelCarne">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Carne"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldCuota">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldCuotaActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldCarne">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldCarneActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonGuardar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Guardar Lista de Militantes"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonGuardarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonCargar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cargar Lista de Militantes"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonCargarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Tipo votante"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="texFieldSoM">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="texFieldSoMActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Agregar Simpatizante"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre de fichero a guardar o cargar"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextFieldNomFichero">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldNomFicheroActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

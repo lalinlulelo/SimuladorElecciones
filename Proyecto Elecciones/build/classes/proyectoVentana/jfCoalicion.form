@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="0"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="e6" green="64" red="96" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jLabelTitulo" max="32767" attributes="0"/>
+                              <Component id="jLabelNombre" max="32767" attributes="0"/>
+                              <Component id="jLabelSiglas" max="32767" attributes="0"/>
+                              <Component id="jLabelLogo" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jTextFieldSiglas" alignment="0" pref="127" max="32767" attributes="0"/>
+                              <Component id="jTextFieldNombre" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jTextFieldLogo" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jButtonAddPartido" min="-2" pref="332" max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="jButtonSalir" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jScrollPane2" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="362" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jScrollPane1" alignment="0" min="-2" pref="504" max="-2" attributes="0"/>
+                              <Component id="jScrollPaneMili" alignment="0" min="-2" pref="494" max="-2" attributes="0"/>
+                              <Component id="jLabelSubtitulo" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jButtonAgregarCoalicion" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jButtonCargarLista" min="-2" pref="183" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="jLabel2" pref="187" max="32767" attributes="0"/>
+                                      <Component id="jTextFieldNomFicheroPart" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jButtonGuardarListaCoali" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jButtonCargarListaCoali" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel3" min="-2" pref="253" max="-2" attributes="0"/>
+                              <Component id="jTextFieldNomFicheroCoa" min="-2" pref="240" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="209" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabelTitulo" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jButtonCargarLista" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTextFieldNomFicheroPart" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jScrollPaneMili" min="-2" pref="96" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                          <Component id="jButtonAddPartido" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="jLabel1" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          <Component id="jScrollPane2" min="-2" pref="102" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabelNombre" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextFieldNombre" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabelSiglas" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextFieldSiglas" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabelLogo" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextFieldLogo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="jButtonAgregarCoalicion" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabelSubtitulo" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jButtonGuardarListaCoali" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jButtonCargarListaCoali" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextFieldNomFicheroCoa" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jButtonSalir" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabelTitulo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Coaliciones"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelNombre">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelSiglas">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siglas"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelLogo">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Logo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextFieldNombre">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextFieldSiglas">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldSiglasActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextFieldLogo">
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPaneMili">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="jTablePartPoli">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="Nombre" type="java.lang.String"/>
+                    <Column editable="true" title="Siglas" type="java.lang.String"/>
+                    <Column editable="true" title="Logo" type="java.lang.String"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButtonCargarLista">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cargar lista de partidos"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonCargarListaActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonSalir">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonSalirActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelSubtitulo">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Lista de Coaliciones y formaciones"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="jTableListaColicion">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="Nombre" type="java.lang.String"/>
+                    <Column editable="true" title="Siglas" type="java.lang.String"/>
+                    <Column editable="true" title="Logo" type="java.lang.String"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButtonGuardarListaCoali">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Guardar lista de coaliciones y formaciones"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonGuardarListaCoaliActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonCargarListaCoali">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cargar lista de coaliciones y formaciones"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonCargarListaCoaliActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonAgregarCoalicion">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Agregar coalicion o formacion"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonAgregarCoalicionActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonAddPartido">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A&#xf1;adir partido seleccionado a la coalici&#xf3;n nueva"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonAddPartidoActionPerformed"/>
+          </Events>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="jTablePartAna">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="Nombre" type="java.lang.String"/>
+                    <Column editable="true" title="Siglas" type="java.lang.String"/>
+                    <Column editable="true" title="Logo" type="java.lang.String"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Partidos a&#xf1;adidos a la coalici&#xf3;n "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre del fichero de partidos"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextFieldNomFicheroPart">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre de coaliciones a guardar o cargar"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextFieldNomFicheroCoa">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldNomFicheroCoaActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
