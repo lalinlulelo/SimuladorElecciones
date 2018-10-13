@@ -1,0 +1,3 @@
+Patricio:Reguera Fernandez:30:Camionero:H:PSOE:20:Carnet1.txt
+Patfricio:Reguea Fernandez:30:Camionero:H:PSOE:20:Carnet1.txt
+Patfricio:Reguea Rodriguez:33:Charcutero:H:PSOE:23:Carnet1.txt

@@ -1,0 +1,30 @@
+Pablo:Iglesias Turrion:37:Politico:H:Podemos:01:Carnet1.txt
+Carolina:Bescansa:45:Politico:M:Podemos:02:Carnet1.txt
+Iñigo:Errejon:32:Politico:H:Podemos:03:Carnet1.txt
+Irene:Montero:35:Politico:M:Podemos:04:Carnet1.txt
+Rafael:Mayoral:37:Politico:H:Podemos:05:Carnet1.txt
+Pablo:Echenique:37:Politico:H:Podemos:06:Carnet1.txt
+Tania:Sanchez:37:Politico:M:Podemos:07:Carnet1.txt
+Jorge:Lago:37:Politico:H:Podemos:08:Carnet1.txt
+Sergio:Pascual:37:Politico:H:Podemos:09:Carnet1.txt
+David:Bravo:37:Politico:H:Podemos:10:Carnet1.txt
+Ana:Terran:37:Politico:M:Podemos:11:Carnet1.txt
+Marta:Dominguez:37:Politico:M:Podemos:12:Carnet1.txt
+Pedro:Arrojo:37:Politico:H:Podemos:13:Carnet1.txt
+Sofia:Castañon:37:Politico:M:Podemos:14:Carnet1.txt
+Alberto:Rodriguez:37:Politico:H:Podemos:15:Carnet1.txt
+Juan Pablo:Wert:37:Politico:H:Podemos:16:Carnet1.txt
+Gloria:Elizo:37:Politico:M:Podemos:17:Carnet1.txt
+Julio:Rodriguez:37:Politico:H:Podemos:18:Carnet1.txt
+Noelia:Vera:37:Politico:M:Podemos:19:Carnet1.txt
+Rosa Maria:Artal:37:Politico:M:Podemos:20:Carnet1.txt
+Isabel:Franco Carmona:37:Politico:M:Podemos:21:Carnet1.txt
+Segundo:Gonzalez:37:Politico:H:Podemos:22:Carnet1.txt
+Ana:Marcello:37:Politico:M:Podemos:23:Carnet1.txt
+Miguel:Vila Gómez:37:Politico:H:Podemos:24:Carnet1.txt
+Braulio:Llamero Crespo:37:Politico:H:Podemos:25:Carnet1.txt
+Angeles:Garcia Jimenez:37:Politico:M:Podemos:26:Carnet1.txt
+Mohamed:Faitah Mrabet:37:Politico:H:Podemos:27:Carnet1.txt
+Xavier:Domenech Sampere:37:Politico:H:Podemos:28:Carnet1.txt
+Nagua:Alba:37:Politico:M:Podemos:29:Carnet1.txt
+Rita:Bosaho:37:Politico:M:Podemos:30:Carnet1.txt

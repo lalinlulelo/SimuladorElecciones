@@ -1,0 +1,30 @@
+Alberto:Garzon:38:Politico:H:IU:01:Carnet1.txt
+Sol:Sanchez:41:Politico:M:IU:02:Carnet1.txt
+Ricardo:Sixto:49:Politico:H:IU:03:Carnet1.txt
+Cayo:Lara:64:Politico:H:IU:04:Carnet1.txt
+Ascension:de las Heras:52:Politico:M:IU:05:Carnet1.txt
+Gaspar:LLamazares:59:Politico:H:IU:06:Carnet1.txt
+Ana:Castaño:56:Politico:M:IU:07:Carnet1.txt
+Angeles:Maestro:50:Politico:M:IU:08:Carnet1.txt
+Javier:Erice:50:Politico:H:IU:09:Carnet1.txt
+Andres:Cuevas:50:Politico:H:IU:10:Carnet1.txt
+Ignacio:Gallego:50:Politico:H:IU:11:Carnet1.txt
+Montserrat:Muñoz:50:Politico:M:IU:12:Carnet1.txt
+Inmaculada:Nieto Castro:50:Politico:M:IU:13:Carnet1.txt
+Jose Miguel:Nuin:50:Politico:H:IU:14:Carnet1.txt
+Marina:Albiol:50:Politico:M:IU:15:Carnet1.txt
+Yolanda:Diaz:50:Politico:M:IU:16:Carnet1.txt
+Antonio:Montalban:50:Politico:H:IU:17:Carnet1.txt
+Julio:Anguita:50:Politico:H:IU:18:Carnet1.txt
+Paloma:Lopez Bermejo:50:Politico:M:IU:19:Carnet1.txt
+Antonio:Criado:50:Politico:H:IU:20:Carnet1.txt
+Virtudes:Castro:50:Politico:M:IU:21:Carnet1.txt
+Gerardo:Iglesias:50:Politico:H:IU:22:Carnet1.txt
+Daniel:Gonzalez Rojas:50:Politico:H:IU:23:Carnet1.txt
+Maite:Mola:50:Politico:M:IU:24:Carnet1.txt
+Teresa:Domingo Segarra:50:Politico:M:IU:25:Carnet1.txt
+Enrique:Curiel:50:Politico:H:IU:26:Carnet1.txt
+Concha:Caballero:50:Politico:M:IU:27:Carnet1.txt
+Jose:Masa:50:Politico:H:IU:28:Carnet1.txt
+Antonio:Maillo:50:Politico:H:IU:29:Carnet1.txt
+Jon:Hernandez:50:Politico:H:IU:30:Carnet1.txt

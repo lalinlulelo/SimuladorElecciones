@@ -1,0 +1,30 @@
+Mariano:Rajoy Brey:61:Politico:H:PP:01:Carnet1.txt
+Soraya:Saenz de Santamaria:45:Politico:M:PP:02:Carnet1.txt
+Isabel:Garcia Tejerina:50:Politico:M:PP:03:Carnet1.txt
+Cristobal:Montoro:50:Politico:H:PP:04:Carnet1.txt
+Alvaro:Nadal:50:Politico:H:PP:05:Carnet1.txt
+Juan Carlos:Vera:50:Politico:H:PP:06:Carnet1.txt
+Jose Luis:Ayllon:50:Politico:H:PP:07:Carnet1.txt
+M. Teresa:de Lara:50:Politico:M:PP:08:Carnet1.txt
+Carmen:Alvarez Arenas:50:Politico:M:PP:09:Carnet1.txt
+Teofilo:de Luis:50:Politico:H:PP:10:Carnet1.txt
+Belen:Bajo:50:Politico:M:PP:11:Carnet1.txt
+Jose Ignacio:Echaniz:50:Politico:H:PP:12:Carnet1.txt
+Antonio:Gonzalez Terol:50:Politico:H:PP:13:Carnet1.txt
+M. del Mar:Blanco:50:Politico:M:PP:14:Carnet1.txt
+Francisco:Martinez:50:Politico:H:PP:15:Carnet1.txt
+Pilar:Marcos:50:Politico:M:PP:16:Carnet1.txt
+Valentina:Martinez Ferro:50:Politico:M:PP:17:Carnet1.txt
+Mariano:Perez Hickman:50:Politico:H:PP:18:Carnet1.txt
+Beatriz:Rodriguez Salmones:50:Politico:M:PP:19:Carnet1.txt
+David:Perez:50:Politico:H:PP:20:Carnet1.txt
+Pedro:Tanco Zuza:50:Politico:H:PP:21:Carnet1.txt
+Victor:Calvo Sotelo:50:Politico:H:PP:22:Carnet1.txt
+Gador:Ongil:50:Politico:M:PP:23:Carnet1.txt
+Diego:Lora:50:Politico:H:PP:24:Carnet1.txt
+Isabel:Orozco:50:Politico:M:PP:25:Carnet1.txt
+Alejo:Miranda de Larra:50:Politico:H:PP:26:Carnet1.txt
+Isabel:Diaz Ayuso:50:Politico:M:PP:27:Carnet1.txt
+David:Erguido:50:Politico:H:PP:28:Carnet1.txt
+M. Dolores:Martinez Ojeda:50:Politico:M:PP:29:Carnet1.txt
+Ana:Camins:50:Politico:M:PP:30:Carnet1.txt
